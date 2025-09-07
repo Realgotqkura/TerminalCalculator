@@ -1,0 +1,1 @@
+A regular JS Calculator using a custom made tokenizer and parser, for now supports only multiplication, division, subtraction and addition. Follows proper math procedures and supports decimal numbers.
